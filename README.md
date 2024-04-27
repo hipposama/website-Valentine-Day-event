@@ -38,6 +38,6 @@
 
 ###
 
-<h3 align="left">ㅤThank you for using our Valentine's Day event website!<br>ㅤHave fun creating wonderful memories on this special day! ❤️</h3>
+<h3 align="left">ㅤThank you for using our Valentine's Day event website!<br>ㅤHave fun creating wonderful memories on this special day!<br>ㅤ💕💞❤️</h3>
 
 ###
