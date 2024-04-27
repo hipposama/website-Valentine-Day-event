@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://www.icegif.com/wp-content/uploads/valentines-icegif.gif"  />
+<img align="left" height="180" src="https://www.icegif.com/wp-content/uploads/valentines-icegif.gif"  />
 
 ###
 
